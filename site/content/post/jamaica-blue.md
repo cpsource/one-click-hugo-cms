@@ -1,28 +1,85 @@
 ---
-title: 'Just in: small batch of Jamaican Blue Mountain in store next week'
-date: 2017-01-04T15:04:10.000Z
+title: 'The Case of the Missing Architect.'
+date: 2022-01-20T09:15:00.000Z
 description: >-
-  We’re proud to announce that we’ll be offering a small batch of Jamaica Blue
-  Mountain coffee beans in our store next week.
+  In this case, we visit a sub-contractor working on an interface to a telephone switch for a much larger client.
 ---
 
-We expect the shipment of a limited quantity of green beans next Monday. We’ll be offering the roasted beans from Tuesday, but quantities are limited, so be quick.
+The client realized the project was late and was putting pressure on the sub-contractor, who in turn was pressuring the engineering staff. The team consisted of about ten engineers.
 
-Blue Mountain Peak is the highest mountain in Jamaica and one of the highest peaks in the Caribbean at 7,402 ft. It is the home of Blue Mountain coffee and their famous tours. It is located on the border of the Portland and Saint Thomas parishes of Jamaica.
+I was hired, extensively to provide more person-power to help push the project over the finish line.
 
 ## A little history
 
-The Blue Mountains are considered by many to be a hiker's and camper's paradise. The traditional Blue Mountain trek is a 7-mile hike to the peak and consists of a 3,000-foot increase in elevation. Jamaicans prefer to reach the peak at sunrise, thus the 3–4 hour hike is usually undertaken in darkness. Since the sky is usually very clear in the mornings, Cuba can be seen in the distance.
+The switch interface was designed to monitor and display switch performance for a call center. A graphical display would show the call volume, and other information such as rans, or the number of disconnects before someone was connected. I was to work on the graphical display.
 
->Some of the plants found on the Blue Mountain cannot be found anywhere else in the world and they are often of a dwarfed sort.
+## Other Issues
 
-This is mainly due to the cold climate which inhibits growth. The small coffee farming communities of Claverty Cottage and Hagley Gap are located near the peak.
+The sub-contractor was also having trouble keeping the development environment working. They didn't have an IT department and no one knew the proper way to configure the machines.
 
-## What you need to know before trying
+From time to time, the entire development system would stop working, often for days. We'd sit around wondering what to do.
 
-Jamaican Blue Mountain Coffee or Jamaica Blue Mountain Coffee is a classification of coffee grown in the Blue Mountains of Jamaica. The best lots of Blue Mountain coffee are noted for their mild flavor and lack of bitterness. Over the past few decades, this coffee has developed a reputation that has made it one of the most expensive and sought-after coffees in the world. Over 80% of all Jamaican Blue Mountain Coffee is exported to Japan. In addition to its use for brewed coffee, the beans are the flavor base of Tia Maria coffee liqueur.
+Eventually, prime caught up with this issue and demanded a fix. The sub went out and ordered an entirely new development to fix the problem and this appeared to appease the prime, at least for a bit.
 
-Jamaican Blue Mountain Coffee is a globally protected certification mark, meaning only coffee certified by the Coffee Industry Board of Jamaica can be labeled as such. It comes from a recognized growing region in the Blue Mountain region of Jamaica, and its cultivation is monitored by the Coffee Industry Board of Jamaica.
+>Red Alert. Was this the issue?
 
-The Blue Mountains are generally located between Kingston to the south and Port Antonio to the north. Rising 7,402 ft, they are some of the highest mountains in the Caribbean. The climate of the region is cool and misty with high rainfall. The soil is rich, with excellent drainage. This combination of climate and soil is considered ideal for coffee.
+I had always done my own system administration, and it was simple for me to correct any issues, such as NFS mounting individual machines on a server. Voilà, we now had a functioning development environment.
+
+## Back to the main issue
+
+Ok, I've got to build a screen to display data. What should it look like? I went to the architect and asked for a specification or for that matter, any document, or perhaps his time, to explain what was to be built.
+
+What I found was a burned-out architect. He was under so much stress from management, he could barely speak in coherent sentences. Was there a spec? No. What was I to do? He directed me to some sales literature that had been previously put out that showed happy users smiling at a terminal screen in the background. "Code to this", he says.
+
+>Red Alert: Was the architect doing his job?
+
+## I try to help
+
+I went to management and tried to offer some advice.
+1. I should train someone to manage the development environment
+2. The architect needed to provide critical guidance
+
+For my troubles I was canned on the spot. How dare, I, a mere software engineer offer this kind of advice?
+
+>Red Alert: Was management in touch with the project?
+
+## More to the story
+About two weeks later, I was called back in. It seems the development system had shutdown again and no one know how to get it back up and running.
+
+The newer HP equipment hadn't come yet and they were still dependent on their current hardware.
+
+I stayed on the best I could, using the sales literature as an architectural guide.
+
+A bit later, the HP equipment arrived, and we started using newer computers. But, as you should surmise by now, this change would DO NOTHING to solve the project's problems.
+
+The prime noted this to, and canceled the project. The sub was now out of the loop. Prime stated the project was too important so it was being brought in-house.
+
+## Lessons Learned
+
+I call these types of projects Train Wrecks because I know the ending. Sooner or later, the train will jump the tracks, most probably over a trestle, and plunge into the river with a fierily explosion.
+
+What should the management have done?
+
+For starters, get some real architecture done. Software developers need more than two year old sales literature to code a project.
+
+Management should have had someone in IT to manage the development environment. They could have contracted for someone to come in as needed to keep costs low. Having a whole ten person team idled for days is unacceptable.
+
+They desperately needed some basic project management. Agile-lite, whereby you have two week sprints, would have been a good idea. Meeting daily for fifteen minutes would keep management up-to-speed as well as provide guidance to the engineering staff. The two week sprint milestones would have alerted management to schedule slips at an early stage.
+
+>Question: How does a project get one year behind? One day at a time!
+
+## A little bit about telecom work culture
+
+I've worked in Bell Labs and baby bells and they are extremely autocratic and heretical. Orders come from the top down and must not be questioned.
+
+It might have explained my initial firing.
+
+But listening and including engineering staff as part of the team was sorely missing.
+
+
+
+
+
+
+
 
