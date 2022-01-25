@@ -1,4 +1,11 @@
 #!/bin/bash
+if [ $# -eq 1 ]
+  then
+      COMMIT="$1"
+else
+      COMMIT="trial"    
+fi
+
 pushd site
 ../bin/hugo.linux -D
 if [ $? -eq 0 ]; then
@@ -6,7 +13,8 @@ if [ $? -eq 0 ]; then
 else
     echo Site Failed, exiting - FAIL
 fi
+popd
 
 git add -A
-git commit -m "trial"
+git commit -m "$COMMIT"
 git push ssh
