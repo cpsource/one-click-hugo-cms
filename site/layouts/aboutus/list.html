@@ -1,18 +1,17 @@
 {{ define "main" }}
-  <h1>{{ .Title }}</h1>
 
-  <div>
-    {{ range .Pages }}
-      <article>
-        <header>
-          <h2>
-            <a href="{{ .RelPermalink }}">{{ .Title }}</a>
-          </h2>
-        </header>
+{{ partial "jumbotron" (dict "imageUrl" "/img/blog-index.jpg" "title" "About Us") }}
 
-        <p>{{ .Summary }}</p>
+<div class="mw7 center">
+  <ul class="flex-ns flex-wrap mhn1-ns pa3">
+      {{ range (.Paginator 4).Pages.ByPublishDate.Reverse }}
+          <div class="w-50-ns ph1-ns flex">
+            {{ .Render "li"}}
+          </div>
+      {{ end }}
+  </ul>
+  {{ partial "pagination" . }}
+</div>
 
-      </article>
-    {{ end }}
-  </div>
-{{ end }}
+{{end}}
+
