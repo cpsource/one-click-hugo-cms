@@ -1,5 +1,6 @@
 ---
 title: "Second Demo Post"
+subtitle: Second Demo Subtitle
 date: 2020-03-09T09:55:36-05:00
 draft: false
 ---
