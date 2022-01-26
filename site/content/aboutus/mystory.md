@@ -1,5 +1,5 @@
 ---
-title: 'About Our Founder'
+title: 'About our founder'
 date: 2022-01-20T09:15:00.000Z
 draft: false
 description: >-
@@ -10,12 +10,11 @@ description: >-
 
 I started forty-five years ago doing embedded software consulting as an engineer, and have continued ever since.
 
-My business model was simple. I used a contract placement company for sales and found myself working with many companies as an embedded software engineer, eventually specializing in tasks
-in and around the Linux operating system.
+My business model was simple. I used a contract placement company for sales and found myself working with many companies as an embedded software engineer, eventually specializing in tasks in and around the Linux operating system.
 
 But I began to notice that I was brought on to projects that were in deep trouble. I was the last-chance to save the project, and I often did.
 
-There were patterns to these failues. Hard work alone wouldn't have allowed me to be as successful as I was.
+There were patterns to these failures. Hard work alone wouldn't have allowed me to be as successful as I was.
 
 Once I had identified the issue, I could address it and get the project back on track. But, I was poorly placed to effect change. I had come on-board as a software engineer, not as an Software Engineering Organizational Development Expert (O.D.).
 
@@ -23,10 +22,10 @@ Most of my success was due to this O.D. experience, so I've decided to offer my 
 
 So, I offer my consulting services with these lessons-learned. I estimate it'd take me just a few days on-site to understand your engineering process and what must be done.
 
-I have a Masters in Business Administration ( M.B.A.), a Batchelor of Science (B.S.) in Engineering Physics, and for about fifteen years, was a licensed EMT/Paramedic.
+I have a Masters in Business Administration ( M.B.A.), a Bachelor of Science (B.S.) in Engineering Physics, and for about fifteen years, was a licensed EMT/Paramedic.
 
-It would be useful for you to read How We Roll to understand my audit methodology. I also offer a number of case studies to help this methodoly become real. This alone
-may be enough for you to 'right' your project, but there is an old saying "A physician that treats himself has a fool for a patient", so be warned. Smaller projects
+It would be useful for you to read [How We Roll](http://www.redfireconsulting.org/aboutus/howweroll/) to understand my audit methodology. I also offer a number of [case studies](http://www.redfireconsulting.org/posts/) to help this methodology become real. This alone
+may be enough for you to 'right' your project, but there is an old saying "***A physician that treats himself has a fool for a patient***", so be warned. Smaller projects
 can often be done over the phone and/or by video link.
 
 #
