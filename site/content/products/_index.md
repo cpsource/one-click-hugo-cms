@@ -18,6 +18,7 @@ pricing:
     we will do an on-site audit, produce written
     recomendations, and assist in implementation if requested.
     We also do hourly consulting via phone and internet at a rate of $120 per hour, minimum of one hour.
+    Initial phone consulation is free.
 
 #  plans:
 #    - description: Perfect for the drinker who likes to enjoy 1-2 cups per day.
