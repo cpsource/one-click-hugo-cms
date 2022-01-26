@@ -1,6 +1,7 @@
 ---
 title: 'The Case of the Missing Architect.'
 date: 2022-01-20T09:15:00.000Z
+draft: false
 description: >-
   In this case, we visit a sub-contractor working on an interface to a telephone switch for a much larger client.
 ---
