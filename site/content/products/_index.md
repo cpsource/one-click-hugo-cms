@@ -12,11 +12,11 @@ intro:
     RedFire's one consulting service is to get your Linux Embedded Software
     Engineering project back on track and for it to have a successful conclusion.
 pricing:
-  heading: Our Costs
+  heading: Our costs
   description: >-
-    We charge a flat 10,000$. This includes an on-site audit, written
-    recomendations. And we will help you implement any changes you
-    request.
+    We charge a flat 10,000$. Over the two week period of the contract,
+    we will do an on-site audit, produce written
+    recomendations, and assist in implementation if requested.
 
 #  plans:
 #    - description: Perfect for the drinker who likes to enjoy 1-2 cups per day.

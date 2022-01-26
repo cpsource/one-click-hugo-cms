@@ -6,7 +6,7 @@ blurb:
     heading: "Why RedFire?"
     text: "We specialize in bringing troubled Linux-based Software Engineering Projects to successful conclusions, as we have been doing for other clients for the last forty-five years."
 intro:
-    heading: "What we offer (v3)"
+    heading: "What we offer (v4)"
     text: "RedFire will integrate with your project to see it from the inside-out. From this on-the-ground perspective we can see clearly what needs to be done. Is it architecture? Is project management working? Is your code tree working? Is QA on-board? Tech Docs? Upper management? Is staffing the right mix? Are customer relations where they should be? Then, we'll give you a written report on what we find, and then help you implement any necessary items you choose."
 products:
     - image: img/illustrations-coffee.svg
