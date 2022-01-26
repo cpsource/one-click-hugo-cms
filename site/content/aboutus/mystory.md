@@ -28,6 +28,7 @@ It would be useful for you to read [How We Roll](/aboutus/howweroll/) to underst
 may be enough for you to 'right' your project, but there is an old saying "***A physician that treats himself has a fool for a patient***", so be warned. Smaller projects
 can often be done over the phone and/or by video link.
 
+<!--
 #
 #1. Software architecture was poorly though through to such an extent that even the most competent engineer couldn't implement it.
 #2. Project management was non-existent or so unbelievably complex that no one could figure out where the project was.
@@ -38,22 +39,4 @@ can often be done over the phone and/or by video link.
 #7. No QA or QA to be done by the engineer themselves.
 #8. Bad client interface. There are two basic models here: the first relies on a specification and price drawn up before engineering begins, and the second is time-and-materials with no fixed price. You get in#to trouble when you mix the two, i.e. a client pays a fixed price but wants constant changes.
 #
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+-->
