@@ -24,7 +24,7 @@ So, I offer my consulting services with these lessons-learned. I estimate it'd t
 
 I have a Masters in Business Administration ( M.B.A.), a Bachelor of Science (B.S.) in Engineering Physics, and for about fifteen years, was a licensed EMT/Paramedic.
 
-It would be useful for you to read [How We Roll](/aboutus/howweroll/) to understand my audit methodology. I also offer a number of [case studies](http://www.redfireconsultants.org/posts/) to help this methodology become real. This alone
+It would be useful for you to read [How We Roll](/aboutus/howweroll/) to understand my audit methodology. I also offer a number of [case studies](/post/) to help this methodology become real. This alone
 may be enough for you to 'right' your project, but there is an old saying "***A physician that treats himself has a fool for a patient***", so be warned. Smaller projects
 can often be done over the phone and/or by video link.
 
