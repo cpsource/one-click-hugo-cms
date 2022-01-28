@@ -8,5 +8,4 @@ contact_entries:
     text: "24x7"
 ---
 
-We’d love to get in touch with you. Just email us at RedFireConsultants@gmail.com
-for an immediate response.
+We’d love to get in touch with you. Just email us at RedFireConsultants@gmail.com.
